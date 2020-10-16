@@ -5,4 +5,5 @@
 
 ## Sources
 
-- 01.1: [Android Studio and Hello World](Android-Studio-and-Hello-World)
+- Unit 1: **Get Started**
+  - 01.1: [Android Studio and Hello World](Android-Studio-and-Hello-World)
