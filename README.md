@@ -7,3 +7,5 @@
 
 - Unit 1: **Get Started**
   - 01.1: [Android Studio and Hello World](Android-Studio-and-Hello-World)
+  - 01.2: [Part A: Your first interactive UI](Your-first-interactive-UI)
+
